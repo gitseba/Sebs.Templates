@@ -1,6 +1,12 @@
 # Sebs.Templates
 
-Description: Solution for all the project templates.
+Description: Solution for projects and items templates.
 Purpose: Promoting reusability and efficiency.
 
-#WPF Template 
+Projects:
+  #WPF Template
+  #Console Template
+
+Items:
+  #Class Template
+  #Interface Template
