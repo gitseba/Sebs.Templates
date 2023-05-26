@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/templates_shortcut_inport.lnk
+/templates_shortcut_export.lnk
+/templates_shortcut.lnk
