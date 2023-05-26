@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{A6C7CDC7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sebs.Template.Wpf", "projects\Sebs.Template.Wpf\Sebs.Template.Wpf.csproj", "{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sebs.Template.Items", "items\Sebs.Template.Items\Sebs.Template.Items.csproj", "{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,12 +24,17 @@ Global
 		{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5} = {82591506-5C21-4FFF-816B-2666AD37544D}
+		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC} = {A6C7CDC7-B86F-44C7-B16F-16BEABAE5F4B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E507802-9355-4778-9605-3D376D541083}
