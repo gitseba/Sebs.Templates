@@ -14,6 +14,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sebs.Template.Wpf", "projec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sebs.Template.Items", "items\Sebs.Template.Items\Sebs.Template.Items.csproj", "{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sebs.Template.Asp.Mvc", "projects\Sebs.Template.Asp.Mvc\Sebs.Template.Asp.Mvc.csproj", "{353076B2-CEB0-4846-B1FA-66276046F3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353076B2-CEB0-4846-B1FA-66276046F3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353076B2-CEB0-4846-B1FA-66276046F3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353076B2-CEB0-4846-B1FA-66276046F3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353076B2-CEB0-4846-B1FA-66276046F3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CFE8AEB6-CE47-4691-B9F3-1C606BCFC5C5} = {82591506-5C21-4FFF-816B-2666AD37544D}
 		{1B994813-2FBE-4164-B2B8-08B5FB50ABBC} = {A6C7CDC7-B86F-44C7-B16F-16BEABAE5F4B}
+		{353076B2-CEB0-4846-B1FA-66276046F3BF} = {82591506-5C21-4FFF-816B-2666AD37544D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E507802-9355-4778-9605-3D376D541083}
